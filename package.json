@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "a webserver testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "hype"
+  },
+  "author": "Ohanz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
